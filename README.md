@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rishitaxa
-- 👀 I’m interested in ai and web development
-- 🌱 I’m currently learning ai and web development
+- 👀 I’m interested in exploring algorithms 
+- 🌱 I’m currently learning AI and Data Science
   
-- ⚡ I am in first year of my college 
+- ⚡ I am in second year of my college 
 
 <!---
 rishitaxa/rishitaxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
