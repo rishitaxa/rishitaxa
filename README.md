@@ -273,7 +273,7 @@ class RishitaSharma:
 
 <div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/rishitasharma?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10)](https://leetcode.com/rishitasharma)
+[![LeetCode](https://leetcard.jacoblin.cool/rishitaxaq?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10)](https://leetcode.com/rishitaxaq)
 
 </div>
 
