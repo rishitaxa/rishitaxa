@@ -14,15 +14,15 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=rishitasharma&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/rishita-sharma">
+  <a href="https://linkedin.com/in/rishitasharma-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:rishita@email.com">
+  <a href="mailto:rishita1212sharma@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/rishitasharma">
+  <a href="https://leetcode.com/rishitaxaq">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
